@@ -3,5 +3,5 @@
 a = 1
 name = kc
 echo a = $a
-echo name = $kc
+echo name = $name
 
