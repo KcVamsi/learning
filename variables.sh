@@ -14,5 +14,5 @@ echo today date = $DATE
 
 # for arthematic expressions
 
-arthematic=$((2+10))
-echo arthematic = $(arthematic)
+ARTH=$((2-3*4/2))
+echo ARTH = ${ARTH}
