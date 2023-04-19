@@ -15,4 +15,4 @@ echo today date = $DATE
 # for arthematic expressions
 
 arthematic=$((2+10))
-echo arthematic = $(artematic)
+echo arthematic = $(arthematic)
