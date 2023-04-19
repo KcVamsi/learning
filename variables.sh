@@ -1,2 +1,4 @@
 # echo is used to print 
-echo kc = $a
+echo a = $a
+echo name = $kc
+
