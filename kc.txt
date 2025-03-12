@@ -1,5 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hi kc
 =======
 hi vamsi
 >>>>>>> aa3e611 (added2)
+=======
+hi kc vamsi
+=======
+>>>>>>> parent of aa3e611 (added2)
+>>>>>>> 7e44575 (done)
